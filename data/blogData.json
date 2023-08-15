@@ -1,0 +1,21 @@
+[
+    {
+      "id": "1",
+      "title": "Hello Next.js",
+      "content": "This is my first blog post using Next.js",
+      "date": "2023-08-13"
+    },
+    {
+      "id": "2",
+      "title": "How to use Markdown",
+      "content": "Markdown is a simple way to format text for the web",
+      "date": "2023-08-14"
+    },
+    {
+      "id": "3",
+      "title": "Why I love React",
+      "content": "React is a great library for building user interfaces",
+      "date": "2023-08-15"
+    }
+  ]
+  
